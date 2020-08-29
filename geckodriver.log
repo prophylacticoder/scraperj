@@ -1,0 +1,442 @@
+1598641530272	geckodriver	INFO	Listening on 127.0.0.1:46631
+1598642196167	geckodriver	INFO	Listening on 127.0.0.1:45307
+1598642357718	geckodriver	INFO	Listening on 127.0.0.1:38627
+1598642665940	geckodriver	INFO	Listening on 127.0.0.1:58547
+1598643031795	geckodriver	INFO	Listening on 127.0.0.1:55933
+1598653642953	geckodriver	INFO	Listening on 127.0.0.1:45967
+1598732346490	geckodriver	INFO	Listening on 127.0.0.1:56005
+1598732347471	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7p4srH"
+1598732358135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598732358135	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598732358136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598732358136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f8f6a541-46c0-42a2-8dc4-d09410c796d7/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598732360750	Marionette	INFO	Listening on port 35207
+1598732360804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+[Parent 12624, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 12624, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598732378061	Marionette	INFO	Stopped listening on port 35207
+1598732478948	geckodriver	INFO	Listening on 127.0.0.1:34281
+1598732512844	geckodriver	INFO	Listening on 127.0.0.1:59787
+1598732515758	geckodriver	INFO	Listening on 127.0.0.1:43843
+1598732524750	geckodriver	INFO	Listening on 127.0.0.1:57017
+1598732524760	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerU7Otk"
+1598732525555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598732525556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598732525556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598732525556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://0cf87a36-769a-46c3-9de6-a2a181080d84/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598732528894	Marionette	INFO	Listening on port 45787
+1598732528975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598732652246	geckodriver	INFO	Listening on 127.0.0.1:41459
+1598732652282	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJHOrmQ"
+1598732653360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598732653361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598732653367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598732653367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 13096, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 13096, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598732654747	Marionette	INFO	Stopped listening on port 45787
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://ec7d7393-ed1f-48b0-b171-798354d8ff0c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598732655967	Marionette	INFO	Listening on port 46425
+1598732656002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://appasp.sefaz.go.gov.br"
+1598732992962	geckodriver	INFO	Listening on 127.0.0.1:53035
+1598732992973	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJVUSwz"
+1598732993732	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598732993733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598732993733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598732993733	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a7354632-2224-42a7-aa13-923e6b10ab1e/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598732996206	Marionette	INFO	Listening on port 35797
+1598732996287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+[Parent 13843, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 13843, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733138358	Marionette	INFO	Stopped listening on port 35797
+[Parent 13395, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 13395, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 13395, Gecko_IOThread] WARNING: pipe error (124): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733138418	Marionette	INFO	Stopped listening on port 46425
+1598733141720	geckodriver	INFO	Listening on 127.0.0.1:51797
+1598733141750	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebBPDnM"
+1598733142569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733142570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733142570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733142570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a0d4191c-95ae-40a1-a4cc-ce44e7807e7f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733145143	Marionette	INFO	Listening on port 38377
+1598733145175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/prototypes/windowSrc.js?z=1, line 848: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/prototypes/windowSrc.js?z=1, line 881: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+[Parent 14152, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14152, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733179279	Marionette	INFO	Stopped listening on port 38377
+1598733180859	geckodriver	INFO	Listening on 127.0.0.1:40293
+1598733180867	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9YdVt1"
+1598733181598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733181599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733181599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733181599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://ebc214cb-ac9c-41ba-a954-52e014a7e64a/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733183980	Marionette	INFO	Listening on port 40695
+1598733184080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+1598733289868	geckodriver	INFO	Listening on 127.0.0.1:58533
+1598733289877	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9td3np"
+1598733290615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733290615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733290616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733290616	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://68336a90-e1d1-4a22-8da4-11a886e4d2ad/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733293044	Marionette	INFO	Listening on port 40787
+1598733293089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+[Parent 14587, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14587, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733333551	Marionette	INFO	Stopped listening on port 40787
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+1598733340260	geckodriver	INFO	Listening on 127.0.0.1:48767
+1598733340268	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg8zJBs"
+1598733341088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733341088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733341088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733341089	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://fb4acf8f-353c-4781-aef9-2a4ee72a9428/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733343681	Marionette	INFO	Listening on port 37669
+1598733343779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+1598733346641	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+1598733347406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598733348568	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+1598733349325	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598733350285	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+1598733351053	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+1598733352062	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733352835	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733354012	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733354777	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733355948	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733356712	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733357877	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/prototypes/windowSrc.js?z=1, line 848: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/prototypes/windowSrc.js?z=1, line 881: unreachable code after return statement
+1598733359271	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733364028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733364806	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+[Parent 14800, Gecko_IOThread] WARNING: pipe error (87): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733365789	Marionette	INFO	Stopped listening on port 37669
+1598733381213	geckodriver	INFO	Listening on 127.0.0.1:60709
+1598733381231	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesqTZIM"
+1598733382080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733382080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733382080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733382080	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://d14ac899-667a-4bc0-83e1-22c9f111ec57/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733384825	Marionette	INFO	Listening on port 33961
+1598733384857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+1598733421384	geckodriver	INFO	Listening on 127.0.0.1:35937
+1598733421392	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFsZ259"
+1598733422127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733422128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733422128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733422128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733424746	Marionette	INFO	Listening on port 33495
+1598733424803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://e16b1f1b-f3fd-42d8-9c63-8b1003a64f46/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598733429039	Marionette	INFO	Stopped listening on port 33495
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1598733457903	geckodriver	INFO	Listening on 127.0.0.1:54637
+1598733458084	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNPPKVs"
+1598733460340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733460340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733460340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733460341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://eff31c81-4409-4ed1-a8bf-e0492d6c975c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733464007	Marionette	INFO	Listening on port 34971
+1598733464107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598733470966	Marionette	INFO	Stopped listening on port 34971
+[Parent 15472, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 15472, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733471793	geckodriver	INFO	Listening on 127.0.0.1:32993
+1598733471798	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePfblpy"
+1598733472569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733472569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733472570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733472570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://23187730-8af0-4560-a12e-798321697e0b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733475060	Marionette	INFO	Listening on port 32937
+1598733475113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598733476887	Marionette	INFO	Stopped listening on port 32937
+[Parent 15673, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 15673, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733477838	geckodriver	INFO	Listening on 127.0.0.1:60861
+1598733477843	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiGNmeJ"
+1598733478595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733478595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733478596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733478596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://69629c74-bac8-453a-8044-ef7d01ef3ecc/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733481111	Marionette	INFO	Listening on port 43623
+1598733481156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598733482939	Marionette	INFO	Stopped listening on port 43623
+[Parent 15866, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 15866, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733483999	geckodriver	INFO	Listening on 127.0.0.1:55275
+1598733484007	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1YWDHw"
+1598733484837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733484837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733484837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733484838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://ea527fa3-4883-4e4a-a879-2b95613f206b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733487279	Marionette	INFO	Listening on port 41339
+1598733487326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598733489036	Marionette	INFO	Stopped listening on port 41339
+[Parent 16058, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733491999	geckodriver	INFO	Listening on 127.0.0.1:36025
+1598733492007	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZHI04n"
+1598733492776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733492776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733492777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733492777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://b2316d90-563e-44a9-afa6-8ea29466d17f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733495283	Marionette	INFO	Listening on port 42829
+1598733495321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598733497116	Marionette	INFO	Stopped listening on port 42829
+[Parent 16252, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 16252, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733500100	geckodriver	INFO	Listening on 127.0.0.1:49135
+1598733500107	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej67tml"
+1598733500854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733500855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733500859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733500860	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://e9f4dfd0-ef56-4332-80bb-67ab61bc7ae9/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733503362	Marionette	INFO	Listening on port 45887
+1598733503421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598733510258	Marionette	INFO	Stopped listening on port 45887
+[Parent 16442, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 16442, Gecko_IOThread] WARNING: pipe error (130): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733513110	geckodriver	INFO	Listening on 127.0.0.1:50053
+1598733513116	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileenG7fd"
+1598733513880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733513880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733513881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733513881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://02d101f4-8f88-4d8d-91d8-360cf6a8fe73/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733516360	Marionette	INFO	Listening on port 41741
+1598733516430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598733518253	Marionette	INFO	Stopped listening on port 41741
+[Parent 16640, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 16640, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733543428	geckodriver	INFO	Listening on 127.0.0.1:50371
+1598733543436	mozrunner::runner	INFO	Running command: "/home/sagan/ff/firefox/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUUSUvu"
+1598733544204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598733544204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598733544204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598733544205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://0abe0e35-c16c-472e-b94e-ae5fe7142df7/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1598733546808	Marionette	INFO	Listening on port 43393
+1598733546851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+1598733554899	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+1598733555659	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598733556837	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+1598733557594	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion/zionSrc.js, line 1076: unreachable code after return statement
+1598733558589	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+1598733559363	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+1598733560377	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733561136	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733562096	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733562852	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733564061	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733564832	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733566043	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733568332	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733569104	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733570268	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733571025	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733572227	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733573011	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733574225	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733574979	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733576188	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733576962	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733578273	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: http://appasp.sefaz.go.gov.br/Sintegra/Consulta/default.asp, line 1: ReferenceError: consultarSintegra is not defined
+1598733579033	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733580200	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1598733580999	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5925: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/zionSrc.js, line 5949: unreachable code after return statement
+JavaScript warning: http://appasp.sefaz.go.gov.br/library/zion2/source/form/formSrc.js?z=1, line 549: unreachable code after return statement
+[Parent 14359, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14359, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733694219	Marionette	INFO	Stopped listening on port 40695
+[Parent 15045, Gecko_IOThread] WARNING: pipe error (66): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 15045, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1598733802308	Marionette	INFO	Stopped listening on port 33961
