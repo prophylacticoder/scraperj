@@ -35,11 +35,11 @@ for cnpj in cnpjs:
 
     window_after = driver.window_handles[1]
 
+    time.sleep(2)
     # Change to the data tab
     driver.switch_to_window(window_after)
-    time.sleep(2)
 
-    #Get the page's source code
+    # Get the page's source code
     sc_code = driver.page_source
 
     beautiful_soup = bs.BeautifulSoup(sc_code, 'lxml')
@@ -52,14 +52,21 @@ for cnpj in cnpjs:
         data.append([cnpj, 'NULL', 'NULL', 'NULL', 'NULL', 'NULL',
                     'NULL', 'NULL', ])
     else:
-        #Othterwise scrape the data
+        # Othterwise scrape the data
         html_elements = beautiful_soup.find_all('span', {'class', 'label_text'})
         data.append([cnpj, html_elements[1].text.strip(),
         html_elements[2].text.strip(), html_elements[3].text.strip(),
         html_elements[16].text.strip(), html_elements[20].text.strip(),
-        html_elements[21].text.strip(), html_elements[22].text.strip()])]
+        html_elements[21].text.strip(), html_elements[22].text.strip()])
 
-
-
+    # Close tab to free memory
+    driver.close()
     # Change back to the search tab
     driver.switch_to_window(window_before)
+
+driver.quit()
+
+with open('sefaz_go.csv', 'w') as csv_file:
+    csv_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+    for row in data:
+        csv_writer.writerow(row)

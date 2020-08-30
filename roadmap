@@ -6,11 +6,3 @@
 6) To convert the data into a csv file; 03/09
 
 Final project: To create a webscraper which loads data from a .csv file and use these data to retrieve information from a website. The scraper will insert the data in the website using the libraries Selenium and Beautiful Soup. With the retrived the data, the webscraper will finally insert the retrived data into a .csv file.
-
-2 = inscrição cce
-3 = Nome empresarial
-4 - = contribuinte
-17 = Atividade principal
-21 = Situação cadastral vigente
-22 = data dessa situação vigente
-23 = Data desse cadastramento
